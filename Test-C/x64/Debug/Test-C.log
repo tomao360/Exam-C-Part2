@@ -1,0 +1,16 @@
+﻿  Question1.c
+C:\Users\97252\source\repos\Test-C\Test-C\Question1.c(10,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\97252\source\repos\Test-C\Test-C\Question1.c(17,4): warning C4033: 'main_1' must return a value
+C:\Users\97252\source\repos\Test-C\Test-C\Question1.c(29,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Question2.c
+C:\Users\97252\source\repos\Test-C\Test-C\Question2.c(10,2): warning C4013: 'gets' undefined; assuming extern returning int
+C:\Users\97252\source\repos\Test-C\Test-C\Question2.c(19,4): warning C4033: 'main_2' must return a value
+C:\Users\97252\source\repos\Test-C\Test-C\Question2.c(12,12): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Question3.c
+C:\Users\97252\source\repos\Test-C\Test-C\Question3.c(9,41): warning C4047: ':': 'void *' differs in levels of indirection from 'int'
+  Question4.c
+C:\Users\97252\source\repos\Test-C\Test-C\Question4.c(133,1): warning C4047: 'initializing': 'char' differs in levels of indirection from 'void *'
+  Generating Code...
+C:\Users\97252\source\repos\Test-C\Test-C\Question2.c(41): warning C4715: 'main_2': not all control paths return a value
+C:\Users\97252\source\repos\Test-C\Test-C\Question1.c(40): warning C4715: 'main_1': not all control paths return a value
+  Test-C.vcxproj -> C:\Users\97252\source\repos\Test-C\x64\Debug\Test-C.exe
